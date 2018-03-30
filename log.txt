@@ -1,0 +1,23 @@
+commit 682c077839703ac764132844fe4254be2e7080a9
+Author: Edward <jiher17@hotmail.com>
+Date:   Fri Mar 30 10:54:16 2018 -0500
+
+    agregando guitarra acustica
+
+commit 89483b89bb86a4564593f410e13198b779671834
+Author: Edward <jiher17@hotmail.com>
+Date:   Fri Mar 30 10:20:04 2018 -0500
+
+    sumando nuevo hero
+
+commit 0b68ef82b8b954175d63a0be2e068b00d783f9f2
+Author: Edward <jiher17@hotmail.com>
+Date:   Thu Mar 29 14:57:03 2018 -0500
+
+    agregando el header
+
+commit 2593967d2ae1ac6b5afdc354e84269fdc0117f8c
+Author: Edward <jiher17@hotmail.com>
+Date:   Thu Mar 29 14:30:41 2018 -0500
+
+    inicializar nuestro landing
